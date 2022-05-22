@@ -1,0 +1,15 @@
+
+--------------------------------------------------------------
+bbcetc.sh
+--------------------------------------------------------------
+
+This (primitive) script downloads and slightly converts some hourly news podcasts. 
+After that they are simple mp3s in some webserver's directory.
+
+Uses wget, ffmpeg, lame, youtube-dl.
+
+=== Contacts ================
+e-mail:   buturumus@gmail.com
+telegram: @buturumus
+Alexander
+
